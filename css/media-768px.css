@@ -246,8 +246,7 @@
   /* DISPLAY NONE */
 
   .highlight,
-  .content__span--repair,
-  .content__span--checkstatus,
+  .content__span,
   .content__text-spoiler--768px,
   .content__button--320px,
   .content__swiper--third {
